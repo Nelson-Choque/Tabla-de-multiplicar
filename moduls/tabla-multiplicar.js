@@ -4,6 +4,7 @@ const fs = require('fs');
 
 const tablaMultiplicar= (base,limite,listar)=>{
 
+
     return new Promise(  (resolve,reject) =>{
 
         let resultado = "";
